@@ -1,6 +1,7 @@
 ﻿<moomoo_opend>
 		<ip>127.0.0.1</ip>
 		<api_port>11111</api_port>
+	 	<telnet_port>22222</telnet_port>
 		<login_account>100000</login_account>
 		<!-- <login_pwd_md5>6e55f158a827b1a1c4321a245aaaad88</login_pwd_md5> -->
 		<login_pwd>123456</login_pwd>
